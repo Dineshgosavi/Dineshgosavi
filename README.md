@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dineshgosavi
-- 👀 I’m interested in SQL,Python,PowerBI
-- 🌱 I’m currently learning SQL,Python
-- 💞️ I’m looking for the great organization to contribute
-- 📫 How to reach me : Dineshworkupdates@gmail.com
+- 👀 I’m interested in SQL, Python, PowerBI
+- 🌱 I’m currently learning SQL, Python
+- 💞️ I’m looking for a great organization to contribute
+- 📫 How to reach me: Dineshpg1997@gmail.com
 
 <!---
 Dineshgosavi/Dineshgosavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
